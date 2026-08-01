@@ -7,6 +7,7 @@ A little bit at a time, mostly at night, always chasing something that feels rig
 - 🇨🇦 **Location:** 26 years old from Canada
 - 💻 **Role:** Software Developer (Web Development & Python Enthusiast)
 - 📚 **Self-Taught:** Learning & building with Python, CSS, HTML, and JavaScript since 2016
+- 🎮 **Aspiring Game Dev:** Dipping my toes into indie game development.
 - 🌈 **Identity & Pride:** Neurodiverse, Bisexual & Disabled
 - 💬 **Community:** Joining programming websites and chatrooms to collaborate and share
 
