@@ -25,7 +25,7 @@ A little bit at a time, mostly at night, always chasing something that feels rig
 
 ### 📌 Current Focus & Status
 
-> Currently working on A Chrome-dino-style endless runner built from scratch in Lua using the LÖVE2D framework. 
+> Currently learning Lua for game development using the LÖVE2D framework. 
 
 - 🛠️ **Working on:** Creative web experiments and Python utilities
 - 🌙 **Coding hours:** Late night coding sessions
